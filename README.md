@@ -1,2 +1,2 @@
-# gdp-vs-satisfaction
-Linear regression to predict relation between GDP Per Capita and Life Satisfaction
+# GDP Versus Life Satistfaction
+Project to understand linear regression by predicting relation between GDP Per Capita and Life Satisfaction
